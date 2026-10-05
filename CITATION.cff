@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this material, please cite it as below."
+title: "Governed SDTM derivations: which specification artifacts matter most for AI-assisted code generation"
+type: dataset
+authors:
+  - family-names: Markov
+    given-names: Rostislav
+    affiliation: Amazon Web Services
+repository-code: "https://github.com/rosmarkov/governed-sdtm-derivations"
+license: CC-BY-4.0
+date-released: 2026-10-05
+keywords:
+  - SDTM
+  - CDISC
+  - AI-assisted code generation
+  - behavior-driven development
+  - specification-driven composition
+  - governance
+preferred-citation:
+  type: conference-paper
+  title: "A specification-driven approach to improve the reliability of AI-generated SDTM transformation programs"
+  authors:
+    - family-names: Markov
+      given-names: Rostislav
+  conference:
+    name: "PharmaSUG 2026"
+  year: 2026
+  notes: "Paper AI-420"
